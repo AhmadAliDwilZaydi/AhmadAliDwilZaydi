@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm 𝘼𝙈𝙇𝙄</h1>
+
+<img src="https://i.pinimg.com/originals/61/70/74/617074b4d288acefc813e3fbaa6cae1b.jpg" />
+
 - 👋 Hi, I’m @AhmadAliDwilZaydi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
