@@ -1,6 +1,3 @@
-<img src="https://awsimages.detik.net.id/community/media/visual/2017/12/06/6414c1ae-fcd1-49a6-8316-4a71c29f93ff_43.jpg?w=600&q=90" />
-
-
 - 👋 Hi, I’m @AhmadAliDwilZaydi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
