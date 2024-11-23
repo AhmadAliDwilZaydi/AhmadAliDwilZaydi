@@ -1,6 +1,6 @@
-<h1 align="center">  ▀▄█▄▀ 𝚂ƛ𝒀α 𝔄𝓜🅻ɪ ▀▄█▄▀ </h1>
+<h1 align="center" color="green" font-family="Copperplate"> AMLI </h1>
 
-<img src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif" alt="Pixel Art" allgo="right" widht="200">
+<img src="https://cdnb.artstation.com/p/assets/images/images/034/461/935/original/valeriya-kim-scene-1-wip.gif?1612356643" alt="Pixel Art" allgn="right" widht="200">
 
 - 👋 Hi, I’m @AhmadAliDwilZaydi
 - 👀 I’m interested in ...
