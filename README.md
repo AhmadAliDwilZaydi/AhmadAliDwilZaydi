@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmadAliDwilZaydi
 
-<h1 align="right"> 
+<h1 align="center"> 
 <img src="https://cdnb.artstation.com/p/assets/images/images/034/461/935/original/valeriya-kim-scene-1-wip.gif?1612356643"> </h1>
 
 ## 🌐 Socials:
