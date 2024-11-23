@@ -1,13 +1,10 @@
 - 👋 Hi, I’m @AhmadAliDwilZaydi
-
-<h1 align="center"> 
-<img src="https://cdnb.artstation.com/p/assets/images/images/034/461/935/original/valeriya-kim-scene-1-wip.gif?1612356643"> </h1>
+<h1 align="right"> <img src="https://cdnb.artstation.com/p/assets/images/images/034/461/935/original/valeriya-kim-scene-1-wip.gif?1612356643" width="200"> </h1>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sRMmrvTw) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im.amli) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@im.bredet) 
-
 # 💻 Tech Stack:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 # 📊 GitHub Stats:
