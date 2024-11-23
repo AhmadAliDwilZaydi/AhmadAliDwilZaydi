@@ -1,18 +1,26 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&width=435&lines=HI+EVERYONE!+IM+AHMAD+ALI+DWIL+ZAYDI.;WELCOME+TO+MY+GITHUB+PROFILE!)](https://git.io/typing-svg)
-<h1 align="right"> <img src="https://cdnb.artstation.com/p/assets/images/images/034/461/935/original/valeriya-kim-scene-1-wip.gif?1612356643" width="200"> </h1>
 
-## 🌐 Socials:
+<img src="https://media.tenor.com/ewkU_Ti-n_AAAAAM/drill-uk-drill.gif" alt="Pixel Art" align="right" width="650">
+
+SOCIALS:
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sRMmrvTw) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im.amli) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@im.bredet) 
-# 💻 Tech Stack:
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@im.bredet) <br/>
+<img src="https://cdnb.artstation.com/p/assets/images/images/034/461/935/original/valeriya-kim-scene-1-wip.gif?1612356643" alt="Pixel Art" align="center" width="200">
+
+TECH STACK:
+
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AhmadAliDwilZaydi&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+GITHUB STATS:
+
+![](https://github-readme-stats.vercel.app/api?username=AhmadAliDwilZaydi&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmadAliDwilZaydi&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAliDwilZaydi&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
+TOP CONTRIBUTED REPO:
+
 ![](https://github-contributor-stats.vercel.app/api?username=AhmadAliDwilZaydi&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
