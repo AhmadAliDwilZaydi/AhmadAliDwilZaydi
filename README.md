@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&width=435&lines=HI+EVERYONE!+IM+AHMAD+ALI+DWIL+ZAYDI.;WELCOME+TO+MY+GITHUB+PROFILE!)](https://git.io/typing-svg)
 
-<img src="https://media.tenor.com/ewkU_Ti-n_AAAAAM/drill-uk-drill.gif" alt="Pixel Art" align="right" width="450">
+<img src="https://media.tenor.com/ewkU_Ti-n_AAAAAM/drill-uk-drill.gif" alt="Pixel Art" align="right" width="550">
 
 SOCIALS:
 
@@ -15,8 +15,8 @@ TECH STACK:
 
 GITHUB STATS:
 
-![](https://github-readme-stats.vercel.app/api?username=AhmadAliDwilZaydi&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AhmadAliDwilZaydi&theme=neon&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=AhmadAliDwilZaydi&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AhmadAliDwilZaydi&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAliDwilZaydi&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 TOP CONTRIBUTED REPO:
