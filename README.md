@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AhmadAliDwilZaydi
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&width=435&lines=HI+EVERYONE!+IM+AHMAD+ALI+DWIL+ZAYDI.;WELCOME+TO+MY+GITHUB+PROFILE!)](https://git.io/typing-svg)
 <h1 align="right"> <img src="https://cdnb.artstation.com/p/assets/images/images/034/461/935/original/valeriya-kim-scene-1-wip.gif?1612356643" width="200"> </h1>
 
 ## 🌐 Socials:
