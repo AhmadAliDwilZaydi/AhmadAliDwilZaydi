@@ -1,6 +1,6 @@
 <h1 align="center">  ▀▄█▄▀ 𝚂ƛ𝒀α 𝔄𝓜🅻ɪ ▀▄█▄▀ </h1>
 
-<img src="https://i.pinimg.com/originals/cc/c2/d8/ccc2d8e3595f8ee47e8b9ca957da5b45.gif" width="50%" height="50%"/>
+<img src="https://i.pinimg.com/originals/cc/c2/d8/ccc2d8e3595f8ee47e8b9ca957da5b45.gif" />
 
 - 👋 Hi, I’m @AhmadAliDwilZaydi
 - 👀 I’m interested in ...
