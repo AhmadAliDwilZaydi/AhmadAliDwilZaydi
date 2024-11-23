@@ -2,6 +2,7 @@
 
 <img src="https://media.tenor.com/ewkU_Ti-n_AAAAAM/drill-uk-drill.gif" alt="Pixel Art" align="right" width="550">
 
+
 SOCIALS:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sRMmrvTw) 
