@@ -1,6 +1,6 @@
 <h1 align="center">  ▀▄█▄▀ 𝚂ƛ𝒀α 𝔄𝓜🅻ɪ ▀▄█▄▀ </h1>
 
-<img src="https://i.pinimg.com/originals/58/14/f1/5814f1e41b5c9372c7c339d037452990.gif" alt="Pixel Art" allgo="right" widht="200">
+<img src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif" alt="Pixel Art" allgo="right" widht="200">
 
 - 👋 Hi, I’m @AhmadAliDwilZaydi
 - 👀 I’m interested in ...
