@@ -1,6 +1,5 @@
-<h1 align="center" color="green" font-family="Copperplate"> AMLI </h1>
-
-<img src="https://cdnb.artstation.com/p/assets/images/images/034/461/935/original/valeriya-kim-scene-1-wip.gif?1612356643" alt="Pixel Art" allgn="right" widht="200">
+<h1 align="center"> AMLI </h1>
+<img src="https://cdnb.artstation.com/p/assets/images/images/034/461/935/original/valeriya-kim-scene-1-wip.gif?1612356643">
 
 - 👋 Hi, I’m @AhmadAliDwilZaydi
 - 👀 I’m interested in ...
