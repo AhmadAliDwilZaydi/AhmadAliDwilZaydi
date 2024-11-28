@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&width=435&lines=HI+EVERYONE!+IM+AHMAD+ALI+DWIL+ZAYDI.;WELCOME+TO+MY+GITHUB+PROFILE!)](https://git.io/typing-svg)
 
-<img src="https://media.tenor.com/ewkU_Ti-n_AAAAAM/drill-uk-drill.gif" alt="Pixel Art" align="right" width="550">
+<img src="https://media.tenor.com/dzuKwD5nWswAAAAM/mafia-mafia-game.gif" alt="Mafia" align="right" width="550">
 
 
 SOCIALS:
